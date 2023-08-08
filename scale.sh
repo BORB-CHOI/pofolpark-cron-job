@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-echo "hi"
+echo $SERVICE_ID
+echo $TOKEN
