@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 curl --request POST \
      --url https://api.render.com/v1/services/$SERVICE_ID/jobs \
      --header 'accept: application/json' \
